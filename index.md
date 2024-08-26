@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "我的文档"
+  name: "我的文档 "
   text: "前端资料文档"
   tagline: ......
   image:
