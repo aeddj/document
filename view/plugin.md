@@ -1,15 +1,22 @@
 ﻿---
-outline: deep
+# 大纲
+outline: [1, 6] # deep=[2,6]标题2-6级标题
+# 布局 doc 文档 | page 页面 | home 首页
+layout: doc
+# 是否显示侧边栏
+sidebar: true
 ---
+<!-- 目录 -->
+[[toc]] 
 
-## 官网 响应式 模板合集 -100多个   
+# 官网 响应式 模板合集 -100多个   
 ::: info website-templates
 github: [https://github.com/learning-zone/website-templates?tab=readme-ov-file](https://github.com/learning-zone/website-templates?tab=readme-ov-file)
 
 官网：[https://htmlrev.com/](https://htmlrev.com/)
 :::
 
-## 公共api大全
+# 公共api大全
 
 **大全**
 ```js
@@ -37,19 +44,19 @@ https://api.thedogapi.com/v1/images/search?size=full // 随机图片
 https://picsum.photos/ // 随机图片
 ```
 
-## 【vuepress】快速搭建md博客  
+# 【vuepress】快速搭建md博客  
 - [官网https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
 - [教程https://juejin.cn/post/7077498041921437704](https://juejin.cn/post/7077498041921437704)
 > vue官网就是用它搭建的
 
-### vue工具集合
+## vue工具集合
 ::: info vueUse 
 [http://www.vueusejs.com/](http://www.vueusejs.com/)
 
 [https://inhiblab-core.gitee.io/docs/hooks/](https://inhiblab-core.gitee.io/docs/hooks/)
 :::
 
-### vue3项目所用库  
+## vue3项目所用库  
 - [bbs论坛项目](http://easybbs.wuhancoder.com/post/bQizOUijyMZRQbi)
   - 所有依赖
   ```js

@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文档', link: '/wecome' },
+      { text: '导航', link: '/view/link' },
       { text: '关于我们', link: '/about' },
     ],
 
