@@ -20,8 +20,8 @@ const gridDate = [
     level: 'h1',
     name: '公共api大全',
     link: [
-      { title: 'vvhan', info: '韩小韩WebAPI免费接口。' , url: 'https://api.vvhan.com/'},
-      { title: 'vvhan-github', info: '免费接口大全。' , url: 'https://github.com/public-apis/public-apis'},
+      { title: 'vvhan', info: '韩小韩WebAPI免费接口' , url: 'https://api.vvhan.com/'},
+      { title: 'vvhan-github', info: '免费接口大全' , url: 'https://github.com/public-apis/public-apis'},
       { title: 'chucknorris-random', info: '随机笑话' , url: 'https://api.chucknorris.io/jokes/random'},
       { title: 'chucknorris-categories', info: '笑话类别' , url: 'https://api.chucknorris.io/jokes/categories'},
       { title: 'chucknorris-search', info: '搜索笑话' , url: 'https://api.chucknorris.io/jokes/search?query=cat'},
