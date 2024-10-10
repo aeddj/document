@@ -1,0 +1,1 @@
+import{_ as e,c as a,j as o,o as r}from"./chunks/framework.CRawc891.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),s={name:"about.md"};function n(c,t,p,d,l,i){return r(),a("div",null,t[0]||(t[0]=[o("p",null,"关于我们",-1)]))}const _=e(s,[["render",n]]);export{m as __pageData,_ as default};
