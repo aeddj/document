@@ -1,1 +1,0 @@
-import{_ as t,c as o,j as a,o as r}from"./chunks/framework.CRawc891.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"wecome.md","filePath":"wecome.md"}'),s={name:"wecome.md"};function n(c,e,m,p,d,l){return r(),o("div",null,e[0]||(e[0]=[a("p",null,"欢迎",-1)]))}const f=t(s,[["render",n]]);export{_ as __pageData,f as default};
